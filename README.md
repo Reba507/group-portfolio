@@ -27,6 +27,6 @@ Our group portfolio is a collaborative web project designed to serve as an onlin
 
 ## How to Run the Project
 1. Clone the repository:
-   on bash
+   on bash enter :-
    git clone https://github.com/Reba507/group-portfolio.git
 
