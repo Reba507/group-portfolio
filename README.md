@@ -1,7 +1,7 @@
 # group-portfolio
 
 ##  Project Description
-Our group portfolio is a collaborative web project designed to serve as an online CV, showcasing each team member’s skills, background, and contact details. The site demonstrates **team collaboration** through the use of Agile methodologies and Git/GitHub version control.
+Our group portfolio is a collaborative web project designed to serve as an online CV, showcasing a team member’s skills, background, and contact details. The site demonstrates **team collaboration** through the use of Agile methodologies and Git/GitHub version control.
 
 ---
 
